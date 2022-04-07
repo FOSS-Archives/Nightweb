@@ -12,4 +12,13 @@ Nightweb is an app for Android devices and PCs that connects you to an anonymous
 
 ## Licensing
 
-All files that originate from this project are dedicated to the public domain. That particularly includes the files in `android/src/clojure/net/nightweb`, `desktop/src/nightweb_desktop`, and `common/clojure/nightweb` (the Android, desktop, and backend code respectively). All third-party code in this project remains under their original licenses. I would love pull requests, and will assume that any Clojure contributions are also dedicated to the public domain.
+All files that originate from this project are dedicated to the public domain. That particularly includes the files in `android/src/clojure/net/nightweb`, `desktop/src/nightweb_desktop`, and `common/clojure/nightweb` (the Android, desktop, and backend code respectively). All third-party code in this project remains under their original licenses.
+
+ 
+ 
+I would love pull requests, and will assume that any Clojure contributions are also dedicated to the public domain.
+
+Public Domain: Free to use work as-it-is without warranty (No Rights Reserved) 
+![Screenshot_20220407-184031](https://user-images.githubusercontent.com/92701426/162264789-37b9b9c1-5fca-4ffa-849b-2beef607dab0.png)
+
+ 
